@@ -4,7 +4,7 @@
 include('connection.php');
 
 
-
+//declar empty variable
 
 $error=array();
 
